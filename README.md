@@ -22,5 +22,5 @@
 </p>
 
 ### 🎊 Few of my awesome projects:
-- Moon Estate - MERN project [(link)](https://mern-estate-qb2p.onrender.com/)
+- Moon Estate - MERN project [(link)](https://mernapi.apoorvarao.com/)
 - React Cart - Cart made with React Hooks [(link)](https://develop.d24uct2adzl71u.amplifyapp.com/)
